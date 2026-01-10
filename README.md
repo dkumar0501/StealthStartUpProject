@@ -6,7 +6,7 @@
  
 🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, And Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
   
-## 🧩 Domains & Interests:
+## 🧩 Domains & Interests: 
   
 - Data Engineering & Real Time Analytics    
 - Cloud Computing & DevOps (Docker, Kubernetes, CI/CD)  
