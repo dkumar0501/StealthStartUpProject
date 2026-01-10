@@ -10,7 +10,7 @@
 
 - Data Engineering & Real Time Analytics  
 - Cloud Computing & DevOps (Docker, Kubernetes, CI/CD)  
-- Machine Learning & Computational Modeling  
+- Machine Learning & Computational Modeling   
 - Distributed Systems & HPC Applications  
 - Radiation Tolerant Sensing & Detector Simulations (Geant4, ROOT)  
 - Scientific Computing (Python | C++ | SQL | Spark)
