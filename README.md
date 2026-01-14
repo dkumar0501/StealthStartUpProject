@@ -8,7 +8,7 @@
    
 ## 🧩 Domains & Interests:  
     
-- Data Engineering & Real Time Analytics    
+- Data Engineering & Real Time Analytics     
 - Cloud Computing & DevOps (Docker, Kubernetes, CI/CD)  
 - Machine Learning & Computational Modeling   
 - Distributed Systems & HPC Applications  
